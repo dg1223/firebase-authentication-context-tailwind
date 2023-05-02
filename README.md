@@ -1,0 +1,1 @@
+Firebase authentication with context
